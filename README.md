@@ -29,5 +29,5 @@ https://api.telegram.org/bot<token>/setWebhook?url=https://9a2c2955.ngrok.io/eve
 ```
 
 E enfim na sua página administrativa
-``` https://9a2c2955.ngrok.io/admin/ ``` crie os comandos de input e output para o bot.
+``` https://9a2c2955.ngrok.io/admin/ ``` crie os comandos de input e output para o bot na aba de Interactions.
 
