@@ -3,8 +3,9 @@ Bot criado para o [**grupy de araraquara do telegram**](https://t.me/grupyaqa).
 
 
 ## Instalação:
- 
+ ```
 git clone git@github.com:rafaelsevla/grupybot.git
+```
 
 ## Crie uma virtualenv, ative-a e instale os pacotes
 
